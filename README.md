@@ -5,4 +5,4 @@ python --version (to check python version in your system)
 pip --version (to check pip version)
 Now need to install Djago But we do not want the Django set in complete system but for the specific Environment So for this, firstly we need to create the Virtual Environment  for this type in CMD:
 pip install virtualenvwrapper-win
-makevirtualenv test
+makevirtualenv snotes
